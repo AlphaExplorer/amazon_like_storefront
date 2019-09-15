@@ -1,6 +1,10 @@
 # amazon_like_storefront
 The app will take in orders from customers and deplete stock from the store's inventory
 
+Link showing how the app works:
+https://drive.google.com/file/d/19nfCL1g8J1WIHiPm_n64d7ooCJcYVW8R/view?usp=sharing
+
+
 # Node.js & MySQL
 
 ## Overview
